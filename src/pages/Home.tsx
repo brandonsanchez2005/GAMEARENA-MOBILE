@@ -12,7 +12,6 @@ import {
   IonSpinner,
   IonText
 } from '@ionic/react';
-
 import React, { useState, useEffect } from 'react';
 
 import './Home.css';
